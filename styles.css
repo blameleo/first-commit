@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex;
+    border: solid;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.card   {
+    width: 20%;
+    border: 1px solid black;
+    text-align: center;
+}
